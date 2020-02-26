@@ -9,3 +9,5 @@ Check out the __Week-6_1__ file in this repo for the instructions.
 default-jre in apt.txt gives me java 10, but some of what I'm reading suggests java 8. Trying this: https://tecadmin.net/install-oracle-java-8-ubuntu-via-ppa/
 
 first made a new jupyter binder
+Used the Tabuliser software to import images from articles as PDF documents.  
+Then digitised a scatterplot from another article in Jupyter R studio
